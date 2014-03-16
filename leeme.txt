@@ -1,0 +1,1 @@
+Es un programa para elejir cualquier nuemro ala azar entre el 1, y el numero insertado
